@@ -7,6 +7,8 @@ public class Test {
 		String a = "abc";
 
 		int aa1 = 20;
+		
+		System.out.println(a);
 
 	}
 }
