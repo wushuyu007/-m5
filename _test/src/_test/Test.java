@@ -8,5 +8,7 @@ public class Test {
 
 		int aa1 = 20;
 
+		System.out.println(aa1);
+		System.out.println("huahaha");
 	}
 }
