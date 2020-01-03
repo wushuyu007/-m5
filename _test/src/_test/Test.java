@@ -10,5 +10,7 @@ public class Test {
 
 		System.out.println(aa1);
 		System.out.println("huahaha");
+		System.out.println(a);
+
 	}
 }
