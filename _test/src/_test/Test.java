@@ -7,7 +7,9 @@ public class Test {
 		String a = "abc";
 
 		int aa1 = 20;
-
+		for(int i=1;i<100;++i) {
+			System.out.println("**");
+		}
 		System.out.println(aa1);
 		System.out.println("huahaha");
 		System.out.println(a);
